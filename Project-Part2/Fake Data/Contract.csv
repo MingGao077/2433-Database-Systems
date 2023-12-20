@@ -1,0 +1,1001 @@
+ContractNumber,ActivityStatus,ActivityStatusDate,ConvergeType,BillingMethod,Duration,ExpirationDate,CompanyCode
+1,completed,3/24/2023,none,credit card,216,3/5/2023,181
+2,active,1/25/2023,none,bank transfer,160,11/21/2022,164
+3,completed,4/24/2023,partial,debit card,342,8/24/2023,687
+4,active,12/19/2022,none,bank transfer,188,6/23/2023,945
+5,inactive,8/6/2023,partial,bank transfer,199,11/1/2023,45
+6,inactive,11/4/2023,none,credit card,217,4/9/2023,56
+7,pending,10/6/2023,full,debit card,89,8/28/2023,661
+8,pending,7/7/2023,none,bank transfer,107,3/27/2023,373
+9,inactive,7/26/2023,none,PayPal,101,12/15/2022,292
+10,inactive,1/30/2023,partial,debit card,258,3/6/2023,215
+11,inactive,9/25/2023,partial,bank transfer,114,4/18/2023,446
+12,active,6/27/2023,partial,credit card,280,7/3/2023,258
+13,inactive,12/22/2022,none,PayPal,243,9/3/2023,343
+14,inactive,9/8/2023,none,PayPal,107,7/13/2023,632
+15,inactive,2/1/2023,full,PayPal,207,11/22/2022,825
+16,inactive,2/27/2023,partial,debit card,235,12/20/2022,912
+17,pending,12/21/2022,full,PayPal,70,12/1/2022,777
+18,inactive,2/27/2023,full,bank transfer,34,4/21/2023,465
+19,inactive,8/15/2023,none,debit card,273,10/23/2023,45
+20,pending,8/8/2023,full,bank transfer,45,2/10/2023,107
+21,inactive,10/6/2023,partial,PayPal,65,2/10/2023,759
+22,inactive,5/15/2023,full,PayPal,242,2/19/2023,54
+23,completed,8/24/2023,none,credit card,283,9/11/2023,948
+24,completed,7/15/2023,partial,bank transfer,54,1/7/2023,551
+25,inactive,9/20/2023,full,debit card,137,4/17/2023,181
+26,completed,3/2/2023,none,debit card,77,1/5/2023,162
+27,inactive,5/6/2023,partial,PayPal,31,5/6/2023,805
+28,active,1/8/2023,full,PayPal,76,11/3/2023,30
+29,active,1/5/2023,partial,PayPal,105,8/30/2023,497
+30,pending,11/27/2022,partial,PayPal,227,5/25/2023,528
+31,inactive,12/12/2022,none,debit card,160,10/23/2023,119
+32,active,2/18/2023,partial,PayPal,29,12/25/2022,73
+33,completed,2/14/2023,partial,credit card,178,5/17/2023,917
+34,pending,6/26/2023,full,debit card,44,5/17/2023,241
+35,completed,4/3/2023,none,PayPal,263,7/15/2023,739
+36,completed,12/27/2022,full,PayPal,161,8/5/2023,456
+37,completed,2/13/2023,full,credit card,307,12/15/2022,607
+38,completed,4/20/2023,none,bank transfer,88,2/8/2023,594
+39,active,12/13/2022,full,PayPal,153,10/2/2023,334
+40,completed,8/2/2023,none,PayPal,209,12/8/2022,430
+41,completed,12/7/2022,none,credit card,163,1/3/2023,204
+42,completed,8/16/2023,full,PayPal,161,7/5/2023,766
+43,inactive,9/18/2023,none,debit card,192,1/15/2023,694
+44,inactive,1/16/2023,full,credit card,4,4/17/2023,920
+45,active,9/6/2023,partial,bank transfer,26,12/7/2022,334
+46,pending,5/4/2023,full,debit card,111,12/12/2022,236
+47,inactive,6/26/2023,none,debit card,69,1/11/2023,798
+48,inactive,1/26/2023,full,credit card,78,3/2/2023,113
+49,completed,7/7/2023,full,debit card,314,8/25/2023,334
+50,completed,8/4/2023,full,bank transfer,100,2/2/2023,234
+51,inactive,5/11/2023,full,debit card,171,7/25/2023,101
+52,active,5/28/2023,partial,PayPal,342,8/17/2023,243
+53,inactive,8/11/2023,full,debit card,145,7/21/2023,756
+54,completed,3/25/2023,none,credit card,237,3/30/2023,423
+55,active,2/5/2023,partial,PayPal,360,6/16/2023,891
+56,inactive,6/23/2023,full,PayPal,10,11/4/2023,205
+57,inactive,9/27/2023,none,credit card,124,7/17/2023,385
+58,inactive,4/28/2023,full,PayPal,79,4/25/2023,913
+59,completed,7/3/2023,none,bank transfer,228,6/18/2023,226
+60,inactive,8/18/2023,none,debit card,315,5/19/2023,76
+61,completed,4/12/2023,none,debit card,67,2/6/2023,483
+62,pending,11/14/2022,none,bank transfer,250,11/21/2022,600
+63,pending,2/21/2023,partial,credit card,38,2/14/2023,497
+64,completed,1/8/2023,full,credit card,138,11/28/2022,56
+65,inactive,1/3/2023,full,credit card,186,3/17/2023,912
+66,inactive,1/4/2023,full,bank transfer,306,9/3/2023,447
+67,inactive,4/7/2023,partial,debit card,56,12/30/2022,149
+68,inactive,11/3/2023,full,bank transfer,186,8/24/2023,222
+69,inactive,7/14/2023,partial,PayPal,53,2/6/2023,951
+70,pending,4/28/2023,full,debit card,302,5/17/2023,625
+71,inactive,3/15/2023,partial,PayPal,139,2/5/2023,466
+72,pending,2/6/2023,full,PayPal,55,7/7/2023,183
+73,pending,8/12/2023,none,PayPal,119,6/6/2023,397
+74,active,6/22/2023,partial,bank transfer,90,6/16/2023,383
+75,completed,2/13/2023,none,PayPal,361,7/14/2023,140
+76,active,7/3/2023,none,debit card,171,9/17/2023,469
+77,inactive,12/7/2022,none,credit card,197,1/31/2023,738
+78,inactive,9/2/2023,none,debit card,147,10/2/2023,199
+79,inactive,4/27/2023,none,bank transfer,74,7/4/2023,648
+80,active,11/20/2022,partial,bank transfer,159,5/5/2023,368
+81,pending,10/19/2023,partial,bank transfer,271,3/24/2023,999
+82,inactive,1/23/2023,full,credit card,186,4/14/2023,277
+83,active,4/28/2023,full,debit card,330,5/20/2023,208
+84,inactive,6/28/2023,partial,PayPal,5,8/6/2023,344
+85,pending,1/21/2023,none,debit card,283,3/10/2023,131
+86,active,11/19/2022,none,debit card,161,6/17/2023,33
+87,pending,7/24/2023,none,PayPal,270,12/19/2022,709
+88,pending,3/13/2023,none,bank transfer,273,1/30/2023,583
+89,pending,7/1/2023,full,debit card,313,2/17/2023,62
+90,active,3/1/2023,full,credit card,71,4/26/2023,288
+91,completed,5/25/2023,full,PayPal,266,6/10/2023,140
+92,completed,5/19/2023,none,PayPal,148,8/22/2023,114
+93,pending,12/3/2022,none,credit card,153,8/15/2023,873
+94,pending,8/26/2023,none,bank transfer,358,8/3/2023,477
+95,pending,5/31/2023,full,bank transfer,341,9/16/2023,470
+96,pending,5/18/2023,partial,debit card,93,8/5/2023,429
+97,inactive,5/12/2023,full,bank transfer,23,11/10/2023,176
+98,pending,10/18/2023,none,bank transfer,262,1/22/2023,779
+99,active,11/25/2022,partial,credit card,175,2/5/2023,352
+100,completed,6/6/2023,none,PayPal,104,8/13/2023,226
+101,completed,3/29/2023,partial,PayPal,227,2/16/2023,908
+102,active,8/12/2023,full,credit card,66,10/27/2023,303
+103,pending,3/7/2023,none,PayPal,202,10/15/2023,619
+104,completed,5/27/2023,full,bank transfer,292,5/19/2023,161
+105,inactive,12/17/2022,none,bank transfer,130,1/1/2023,809
+106,completed,4/8/2023,partial,bank transfer,259,7/30/2023,814
+107,inactive,4/3/2023,none,bank transfer,105,5/6/2023,654
+108,completed,4/28/2023,full,PayPal,116,3/10/2023,976
+109,completed,3/30/2023,partial,PayPal,87,7/6/2023,627
+110,pending,10/8/2023,full,PayPal,55,7/20/2023,928
+111,pending,3/10/2023,full,bank transfer,94,9/3/2023,175
+112,active,11/3/2023,partial,credit card,340,5/26/2023,592
+113,active,4/2/2023,full,debit card,274,1/29/2023,994
+114,active,3/18/2023,full,debit card,260,7/31/2023,567
+115,pending,11/16/2022,full,credit card,156,12/18/2022,876
+116,completed,8/7/2023,full,bank transfer,121,2/6/2023,236
+117,active,2/2/2023,full,bank transfer,323,1/23/2023,89
+118,completed,5/10/2023,partial,credit card,23,3/30/2023,422
+119,active,9/15/2023,none,credit card,319,10/7/2023,878
+120,pending,6/10/2023,none,credit card,276,10/1/2023,535
+121,completed,4/10/2023,none,credit card,137,5/22/2023,501
+122,pending,9/6/2023,full,credit card,21,3/30/2023,883
+123,pending,9/30/2023,partial,PayPal,293,8/30/2023,222
+124,pending,6/2/2023,none,PayPal,56,6/1/2023,606
+125,active,8/3/2023,full,bank transfer,72,8/4/2023,485
+126,inactive,12/16/2022,full,bank transfer,115,9/9/2023,858
+127,completed,12/8/2022,none,credit card,281,11/18/2022,474
+128,completed,12/4/2022,none,debit card,186,4/5/2023,286
+129,pending,12/1/2022,full,credit card,310,5/17/2023,15
+130,completed,1/9/2023,full,credit card,360,4/15/2023,748
+131,inactive,2/14/2023,partial,credit card,23,10/24/2023,439
+132,active,7/28/2023,full,bank transfer,355,6/12/2023,754
+133,inactive,10/13/2023,partial,debit card,115,1/1/2023,894
+134,active,2/4/2023,full,PayPal,299,5/4/2023,253
+135,pending,5/20/2023,none,bank transfer,270,1/23/2023,254
+136,inactive,5/25/2023,partial,credit card,62,10/9/2023,336
+137,active,4/30/2023,full,debit card,191,4/20/2023,445
+138,pending,12/26/2022,full,credit card,77,12/13/2022,594
+139,active,11/19/2022,partial,bank transfer,98,3/4/2023,228
+140,inactive,8/22/2023,full,PayPal,335,5/3/2023,914
+141,active,2/11/2023,partial,PayPal,261,4/14/2023,950
+142,pending,10/15/2023,full,PayPal,135,6/5/2023,606
+143,active,9/24/2023,partial,bank transfer,228,12/15/2022,969
+144,inactive,3/23/2023,partial,bank transfer,119,6/17/2023,153
+145,pending,2/8/2023,none,debit card,24,6/17/2023,936
+146,inactive,6/2/2023,full,credit card,155,9/2/2023,588
+147,inactive,11/11/2023,none,PayPal,91,3/13/2023,920
+148,inactive,7/24/2023,none,bank transfer,27,1/10/2023,6
+149,inactive,10/11/2023,full,PayPal,228,9/30/2023,428
+150,pending,6/6/2023,partial,PayPal,10,12/28/2022,46
+151,pending,5/2/2023,full,credit card,338,2/27/2023,42
+152,inactive,3/7/2023,none,PayPal,281,9/14/2023,482
+153,pending,3/23/2023,partial,debit card,4,6/27/2023,752
+154,pending,10/1/2023,partial,credit card,123,12/14/2022,788
+155,active,11/26/2022,none,PayPal,261,7/7/2023,517
+156,pending,1/6/2023,full,PayPal,9,12/19/2022,35
+157,inactive,12/27/2022,none,bank transfer,65,5/11/2023,436
+158,pending,4/4/2023,partial,debit card,245,7/13/2023,544
+159,pending,3/11/2023,partial,credit card,322,9/26/2023,404
+160,completed,12/13/2022,partial,debit card,195,12/15/2022,491
+161,completed,11/27/2022,partial,debit card,63,1/7/2023,830
+162,active,5/9/2023,full,PayPal,41,8/7/2023,818
+163,pending,12/5/2022,full,PayPal,308,11/3/2023,714
+164,inactive,3/30/2023,full,PayPal,242,6/10/2023,842
+165,active,10/20/2023,none,debit card,156,12/6/2022,101
+166,inactive,6/22/2023,full,credit card,319,10/2/2023,464
+167,completed,3/2/2023,full,PayPal,333,3/19/2023,508
+168,pending,6/14/2023,partial,credit card,94,10/1/2023,247
+169,inactive,12/30/2022,none,bank transfer,231,6/19/2023,86
+170,completed,5/20/2023,none,debit card,79,6/17/2023,572
+171,pending,9/22/2023,none,bank transfer,137,12/15/2022,772
+172,completed,4/29/2023,full,bank transfer,248,4/10/2023,13
+173,active,12/24/2022,none,PayPal,118,4/2/2023,710
+174,completed,10/23/2023,full,bank transfer,186,7/22/2023,750
+175,active,8/27/2023,none,credit card,338,4/2/2023,417
+176,completed,7/17/2023,full,credit card,137,1/29/2023,973
+177,active,12/22/2022,none,credit card,254,6/20/2023,224
+178,pending,1/13/2023,none,debit card,199,8/14/2023,136
+179,completed,9/8/2023,partial,credit card,6,8/29/2023,368
+180,active,9/2/2023,partial,PayPal,47,11/27/2022,303
+181,completed,5/4/2023,partial,credit card,30,9/27/2023,245
+182,inactive,7/28/2023,partial,credit card,188,1/31/2023,664
+183,active,7/12/2023,full,debit card,176,10/19/2023,93
+184,completed,11/23/2022,full,debit card,322,8/19/2023,17
+185,active,9/30/2023,none,credit card,68,12/31/2022,492
+186,active,11/28/2022,full,bank transfer,242,10/25/2023,686
+187,inactive,10/2/2023,none,credit card,353,10/2/2023,313
+188,pending,6/17/2023,full,bank transfer,150,9/8/2023,166
+189,pending,8/10/2023,partial,debit card,93,1/16/2023,721
+190,inactive,7/31/2023,none,PayPal,209,4/9/2023,471
+191,pending,1/23/2023,none,bank transfer,55,5/24/2023,879
+192,active,8/7/2023,none,PayPal,288,8/6/2023,585
+193,inactive,4/20/2023,none,PayPal,294,6/2/2023,766
+194,pending,1/31/2023,none,debit card,347,9/29/2023,598
+195,pending,11/11/2023,partial,PayPal,22,10/20/2023,25
+196,inactive,7/19/2023,partial,PayPal,167,12/29/2022,1000
+197,pending,1/30/2023,partial,credit card,364,10/26/2023,466
+198,pending,7/22/2023,none,PayPal,72,3/6/2023,475
+199,completed,12/8/2022,partial,credit card,326,2/18/2023,791
+200,active,7/15/2023,partial,PayPal,129,10/27/2023,142
+201,inactive,7/16/2023,partial,debit card,6,4/6/2023,896
+202,pending,1/16/2023,full,credit card,348,12/23/2022,721
+203,inactive,3/6/2023,partial,bank transfer,49,7/19/2023,416
+204,pending,5/23/2023,full,PayPal,206,12/16/2022,190
+205,inactive,8/26/2023,partial,PayPal,145,12/10/2022,809
+206,completed,4/2/2023,none,debit card,131,5/31/2023,893
+207,active,1/8/2023,none,debit card,120,2/27/2023,380
+208,completed,4/18/2023,partial,PayPal,364,3/10/2023,642
+209,active,6/6/2023,none,PayPal,204,5/21/2023,476
+210,active,5/19/2023,none,debit card,16,8/6/2023,721
+211,active,3/28/2023,partial,debit card,264,2/22/2023,649
+212,completed,7/16/2023,none,PayPal,80,11/5/2023,2
+213,inactive,6/19/2023,partial,PayPal,165,4/1/2023,882
+214,active,6/1/2023,none,bank transfer,135,2/25/2023,643
+215,active,1/31/2023,full,bank transfer,22,3/15/2023,73
+216,active,5/5/2023,partial,credit card,246,12/4/2022,395
+217,completed,4/2/2023,partial,debit card,72,4/22/2023,915
+218,inactive,12/1/2022,full,debit card,164,4/26/2023,708
+219,pending,2/21/2023,partial,debit card,274,11/2/2023,341
+220,inactive,5/27/2023,full,PayPal,89,7/8/2023,544
+221,inactive,11/11/2023,none,PayPal,82,3/6/2023,34
+222,completed,8/27/2023,full,PayPal,271,8/17/2023,304
+223,inactive,4/16/2023,full,bank transfer,65,8/11/2023,437
+224,pending,9/5/2023,none,bank transfer,270,5/5/2023,771
+225,inactive,12/13/2022,partial,PayPal,54,9/8/2023,277
+226,inactive,8/17/2023,partial,bank transfer,246,7/19/2023,715
+227,active,4/14/2023,partial,debit card,170,5/22/2023,969
+228,completed,8/30/2023,none,bank transfer,102,11/22/2022,628
+229,completed,7/1/2023,partial,bank transfer,362,3/29/2023,556
+230,inactive,11/9/2023,full,credit card,100,4/4/2023,590
+231,completed,5/9/2023,none,bank transfer,143,10/19/2023,814
+232,completed,1/6/2023,none,debit card,23,2/3/2023,213
+233,inactive,10/17/2023,full,bank transfer,295,6/3/2023,807
+234,inactive,1/13/2023,partial,bank transfer,191,12/11/2022,702
+235,active,2/27/2023,full,debit card,108,2/16/2023,83
+236,completed,11/1/2023,none,PayPal,289,11/10/2023,636
+237,pending,9/27/2023,full,credit card,156,6/26/2023,902
+238,completed,11/30/2022,partial,bank transfer,68,3/2/2023,344
+239,active,4/17/2023,full,debit card,62,11/15/2022,754
+240,inactive,12/21/2022,partial,PayPal,350,4/20/2023,955
+241,completed,12/4/2022,none,debit card,172,9/26/2023,57
+242,active,10/22/2023,none,debit card,31,6/11/2023,528
+243,pending,1/23/2023,full,credit card,104,3/24/2023,969
+244,active,4/14/2023,partial,debit card,314,8/6/2023,932
+245,active,10/20/2023,partial,debit card,129,6/18/2023,691
+246,completed,11/1/2023,full,debit card,232,4/22/2023,373
+247,pending,6/21/2023,partial,credit card,68,8/30/2023,910
+248,active,8/20/2023,none,bank transfer,343,2/4/2023,53
+249,pending,11/22/2022,none,credit card,96,6/20/2023,114
+250,completed,9/16/2023,none,credit card,117,11/17/2022,393
+251,active,9/21/2023,full,PayPal,60,3/5/2023,375
+252,completed,12/14/2022,none,bank transfer,225,6/2/2023,477
+253,completed,10/16/2023,partial,PayPal,104,1/4/2023,634
+254,active,11/21/2022,none,debit card,277,11/25/2022,42
+255,completed,7/6/2023,full,bank transfer,266,1/16/2023,375
+256,active,12/19/2022,partial,bank transfer,14,9/5/2023,376
+257,pending,9/2/2023,partial,debit card,247,5/3/2023,180
+258,pending,12/12/2022,none,credit card,336,10/18/2023,664
+259,active,4/14/2023,none,credit card,323,2/8/2023,573
+260,active,12/4/2022,full,credit card,191,2/3/2023,722
+261,completed,2/26/2023,partial,debit card,191,11/26/2022,69
+262,inactive,8/26/2023,full,debit card,191,5/16/2023,575
+263,inactive,11/26/2022,none,debit card,2,1/30/2023,727
+264,inactive,3/26/2023,partial,debit card,163,1/28/2023,793
+265,active,8/5/2023,none,credit card,100,9/7/2023,210
+266,completed,7/19/2023,full,debit card,65,1/1/2023,142
+267,pending,9/19/2023,full,debit card,119,3/23/2023,343
+268,pending,11/6/2023,none,debit card,352,10/12/2023,245
+269,inactive,6/5/2023,full,debit card,39,1/14/2023,553
+270,inactive,6/24/2023,none,credit card,183,12/31/2022,117
+271,pending,10/16/2023,none,debit card,236,7/20/2023,665
+272,pending,3/7/2023,none,credit card,49,1/3/2023,490
+273,active,9/2/2023,none,credit card,187,6/7/2023,756
+274,pending,10/20/2023,partial,credit card,160,3/4/2023,962
+275,pending,12/20/2022,partial,bank transfer,183,9/20/2023,771
+276,inactive,6/30/2023,partial,credit card,227,12/22/2022,595
+277,completed,4/12/2023,partial,debit card,209,3/26/2023,893
+278,completed,11/25/2022,partial,bank transfer,125,7/18/2023,983
+279,active,12/22/2022,partial,PayPal,362,1/7/2023,720
+280,inactive,5/18/2023,partial,debit card,336,10/4/2023,215
+281,completed,10/30/2023,partial,bank transfer,54,8/14/2023,772
+282,inactive,6/26/2023,none,bank transfer,22,9/8/2023,763
+283,inactive,4/5/2023,full,bank transfer,234,1/18/2023,780
+284,pending,7/29/2023,full,PayPal,312,4/21/2023,231
+285,pending,8/13/2023,none,PayPal,314,10/30/2023,329
+286,pending,12/5/2022,partial,debit card,57,10/1/2023,362
+287,inactive,10/20/2023,none,PayPal,325,8/9/2023,920
+288,inactive,6/24/2023,none,debit card,306,10/26/2023,274
+289,completed,5/21/2023,none,debit card,182,12/13/2022,516
+290,inactive,9/22/2023,partial,bank transfer,284,3/29/2023,697
+291,active,10/24/2023,full,debit card,333,8/14/2023,434
+292,pending,8/5/2023,full,PayPal,261,2/7/2023,284
+293,completed,9/16/2023,partial,debit card,167,11/2/2023,56
+294,pending,12/10/2022,none,bank transfer,279,3/17/2023,65
+295,inactive,8/27/2023,partial,debit card,209,2/20/2023,382
+296,completed,6/25/2023,full,credit card,264,8/6/2023,354
+297,completed,11/30/2022,none,credit card,343,8/19/2023,464
+298,pending,10/8/2023,none,bank transfer,356,12/23/2022,498
+299,active,8/14/2023,partial,PayPal,314,8/7/2023,514
+300,inactive,5/8/2023,none,PayPal,93,7/24/2023,540
+301,inactive,4/12/2023,partial,PayPal,112,6/9/2023,850
+302,pending,9/24/2023,none,PayPal,43,5/19/2023,126
+303,active,5/13/2023,none,debit card,112,12/16/2022,482
+304,inactive,1/3/2023,partial,debit card,89,7/8/2023,727
+305,completed,7/23/2023,full,credit card,58,4/18/2023,545
+306,completed,6/21/2023,full,bank transfer,347,8/29/2023,695
+307,pending,11/18/2022,full,credit card,93,3/10/2023,846
+308,completed,2/14/2023,partial,credit card,254,5/18/2023,546
+309,active,8/14/2023,full,debit card,25,11/24/2022,922
+310,inactive,4/30/2023,none,PayPal,49,12/16/2022,300
+311,pending,4/7/2023,none,PayPal,230,5/6/2023,463
+312,inactive,6/19/2023,partial,PayPal,43,1/31/2023,636
+313,completed,9/17/2023,partial,bank transfer,199,9/30/2023,377
+314,completed,2/18/2023,partial,PayPal,254,12/21/2022,820
+315,pending,10/8/2023,full,PayPal,191,3/8/2023,690
+316,completed,5/28/2023,full,PayPal,316,9/10/2023,969
+317,active,1/22/2023,full,debit card,216,4/20/2023,710
+318,inactive,7/25/2023,none,bank transfer,325,11/18/2022,829
+319,inactive,6/27/2023,partial,bank transfer,184,8/2/2023,964
+320,inactive,11/20/2022,none,credit card,14,11/28/2022,905
+321,inactive,1/8/2023,full,PayPal,27,11/7/2023,68
+322,pending,4/15/2023,full,bank transfer,168,3/22/2023,193
+323,inactive,6/28/2023,full,PayPal,346,11/19/2022,914
+324,completed,3/30/2023,full,debit card,284,10/31/2023,906
+325,active,11/6/2023,none,credit card,98,11/17/2022,469
+326,completed,6/10/2023,partial,debit card,160,10/17/2023,90
+327,active,11/15/2022,full,credit card,312,1/6/2023,83
+328,active,1/19/2023,none,PayPal,169,2/25/2023,401
+329,completed,12/26/2022,full,credit card,131,3/1/2023,920
+330,inactive,1/1/2023,full,debit card,32,1/3/2023,184
+331,inactive,9/6/2023,partial,credit card,299,4/20/2023,296
+332,completed,10/25/2023,partial,PayPal,1,5/21/2023,982
+333,pending,10/5/2023,partial,PayPal,172,5/8/2023,980
+334,completed,11/6/2023,none,PayPal,38,10/5/2023,79
+335,inactive,1/25/2023,none,PayPal,267,12/22/2022,112
+336,completed,4/15/2023,full,credit card,9,6/29/2023,169
+337,completed,3/22/2023,partial,credit card,340,6/19/2023,283
+338,active,11/2/2023,partial,credit card,190,5/25/2023,115
+339,pending,7/29/2023,partial,credit card,133,9/12/2023,714
+340,pending,8/15/2023,none,bank transfer,227,10/8/2023,152
+341,completed,4/16/2023,partial,credit card,167,11/22/2022,509
+342,inactive,12/7/2022,partial,PayPal,66,5/15/2023,155
+343,completed,10/1/2023,none,PayPal,84,2/22/2023,896
+344,active,6/3/2023,none,credit card,183,5/13/2023,210
+345,active,7/17/2023,none,PayPal,158,2/13/2023,534
+346,inactive,7/24/2023,full,PayPal,82,10/11/2023,975
+347,active,5/27/2023,none,PayPal,255,11/11/2023,643
+348,pending,12/17/2022,none,PayPal,69,12/7/2022,24
+349,active,9/16/2023,partial,bank transfer,87,4/30/2023,301
+350,completed,10/5/2023,full,PayPal,105,9/20/2023,427
+351,pending,10/12/2023,full,bank transfer,299,11/3/2023,993
+352,inactive,2/25/2023,none,bank transfer,55,1/18/2023,699
+353,inactive,9/21/2023,none,bank transfer,224,1/11/2023,555
+354,pending,11/16/2022,full,bank transfer,89,7/19/2023,955
+355,active,3/9/2023,partial,PayPal,56,12/5/2022,136
+356,pending,9/10/2023,partial,bank transfer,14,11/21/2022,486
+357,active,11/8/2023,none,debit card,121,2/1/2023,356
+358,active,11/13/2022,partial,PayPal,53,5/28/2023,431
+359,pending,6/11/2023,partial,bank transfer,359,7/22/2023,455
+360,completed,3/10/2023,full,debit card,77,12/17/2022,756
+361,active,12/5/2022,none,bank transfer,36,8/22/2023,661
+362,pending,6/3/2023,partial,debit card,320,4/19/2023,22
+363,pending,1/10/2023,full,PayPal,337,4/30/2023,299
+364,pending,3/7/2023,none,PayPal,110,1/20/2023,194
+365,active,8/16/2023,full,credit card,124,3/8/2023,65
+366,active,2/2/2023,full,credit card,7,6/16/2023,23
+367,active,8/26/2023,none,debit card,352,10/21/2023,893
+368,active,7/25/2023,partial,bank transfer,157,9/14/2023,822
+369,inactive,1/28/2023,none,credit card,111,2/18/2023,238
+370,pending,2/3/2023,none,credit card,298,12/5/2022,855
+371,pending,5/13/2023,full,credit card,147,12/20/2022,971
+372,pending,1/20/2023,full,credit card,76,12/20/2022,533
+373,inactive,2/15/2023,none,credit card,164,11/3/2023,661
+374,completed,4/9/2023,full,debit card,301,7/10/2023,344
+375,pending,9/25/2023,partial,bank transfer,309,4/11/2023,422
+376,inactive,2/8/2023,partial,bank transfer,212,7/11/2023,593
+377,inactive,2/4/2023,full,bank transfer,257,1/21/2023,352
+378,inactive,11/5/2023,full,credit card,241,10/20/2023,672
+379,pending,6/24/2023,partial,PayPal,238,11/12/2022,662
+380,inactive,3/22/2023,full,bank transfer,215,11/11/2023,806
+381,completed,8/21/2023,full,debit card,180,1/14/2023,335
+382,active,9/24/2023,full,debit card,10,4/16/2023,498
+383,inactive,6/6/2023,full,bank transfer,245,4/12/2023,608
+384,pending,2/15/2023,none,debit card,262,3/31/2023,682
+385,active,10/7/2023,full,PayPal,16,4/6/2023,714
+386,pending,5/11/2023,partial,PayPal,110,6/23/2023,543
+387,pending,7/26/2023,none,bank transfer,125,10/25/2023,863
+388,active,10/15/2023,none,PayPal,269,12/17/2022,562
+389,completed,10/19/2023,none,bank transfer,149,8/28/2023,456
+390,inactive,7/9/2023,none,credit card,188,8/12/2023,469
+391,active,10/3/2023,full,bank transfer,237,1/31/2023,312
+392,pending,6/5/2023,full,bank transfer,111,4/8/2023,581
+393,pending,5/8/2023,none,credit card,233,8/16/2023,136
+394,inactive,4/18/2023,partial,credit card,101,5/26/2023,920
+395,inactive,9/11/2023,partial,debit card,170,5/22/2023,809
+396,active,2/13/2023,partial,debit card,138,1/6/2023,314
+397,pending,2/24/2023,partial,bank transfer,196,10/18/2023,176
+398,inactive,7/30/2023,partial,PayPal,36,9/17/2023,809
+399,pending,7/18/2023,partial,bank transfer,106,11/3/2023,267
+400,active,1/29/2023,none,bank transfer,152,4/29/2023,233
+401,inactive,8/21/2023,full,credit card,356,8/24/2023,496
+402,pending,12/4/2022,partial,credit card,236,6/20/2023,381
+403,inactive,4/3/2023,partial,bank transfer,261,2/24/2023,995
+404,pending,3/4/2023,none,PayPal,214,10/8/2023,296
+405,active,6/2/2023,none,debit card,239,6/6/2023,789
+406,active,9/24/2023,full,debit card,317,2/5/2023,866
+407,pending,4/13/2023,partial,debit card,173,2/17/2023,49
+408,pending,8/7/2023,none,debit card,63,1/7/2023,152
+409,active,8/31/2023,full,bank transfer,105,11/4/2023,362
+410,inactive,4/7/2023,none,PayPal,53,5/26/2023,292
+411,active,6/17/2023,partial,PayPal,245,3/5/2023,467
+412,completed,3/5/2023,partial,bank transfer,251,10/18/2023,980
+413,completed,3/8/2023,none,credit card,256,8/11/2023,171
+414,active,8/6/2023,none,PayPal,167,5/13/2023,634
+415,active,11/23/2022,none,credit card,304,4/1/2023,947
+416,inactive,2/5/2023,full,bank transfer,365,10/8/2023,165
+417,active,1/25/2023,full,credit card,211,12/23/2022,729
+418,inactive,5/21/2023,full,PayPal,358,8/20/2023,549
+419,inactive,10/4/2023,full,credit card,297,7/14/2023,293
+420,completed,4/22/2023,none,bank transfer,214,11/17/2022,187
+421,pending,12/19/2022,none,PayPal,21,6/20/2023,997
+422,active,1/24/2023,partial,debit card,351,1/22/2023,180
+423,inactive,7/29/2023,partial,debit card,112,2/11/2023,860
+424,pending,11/29/2022,none,PayPal,122,10/10/2023,726
+425,completed,9/29/2023,none,PayPal,141,1/28/2023,710
+426,inactive,5/7/2023,partial,debit card,15,11/2/2023,927
+427,pending,9/18/2023,partial,credit card,246,9/22/2023,683
+428,pending,3/14/2023,none,debit card,92,8/7/2023,814
+429,pending,9/1/2023,none,bank transfer,121,2/22/2023,158
+430,inactive,5/29/2023,partial,credit card,94,4/17/2023,166
+431,active,10/22/2023,none,debit card,225,8/19/2023,244
+432,pending,6/19/2023,full,credit card,58,4/16/2023,120
+433,inactive,3/2/2023,full,PayPal,116,3/5/2023,43
+434,active,4/21/2023,none,PayPal,165,5/22/2023,325
+435,active,5/17/2023,full,PayPal,123,12/21/2022,589
+436,active,11/30/2022,none,bank transfer,79,6/20/2023,130
+437,pending,1/24/2023,none,credit card,237,11/13/2022,452
+438,active,8/10/2023,full,debit card,184,9/10/2023,267
+439,inactive,8/24/2023,full,bank transfer,339,6/28/2023,379
+440,inactive,5/18/2023,partial,debit card,61,7/6/2023,189
+441,inactive,9/1/2023,partial,debit card,269,5/17/2023,211
+442,completed,10/20/2023,none,bank transfer,123,4/5/2023,576
+443,pending,2/21/2023,full,credit card,191,4/10/2023,725
+444,active,1/9/2023,full,PayPal,6,7/18/2023,36
+445,completed,4/23/2023,full,PayPal,137,5/14/2023,682
+446,completed,8/5/2023,full,credit card,97,2/21/2023,325
+447,pending,7/25/2023,full,credit card,35,8/17/2023,353
+448,pending,6/5/2023,partial,PayPal,269,3/19/2023,152
+449,completed,6/26/2023,full,debit card,78,4/18/2023,382
+450,completed,11/19/2022,full,credit card,86,3/28/2023,460
+451,completed,5/29/2023,partial,bank transfer,148,1/2/2023,553
+452,pending,9/6/2023,full,debit card,356,10/13/2023,999
+453,active,2/7/2023,full,PayPal,361,2/20/2023,167
+454,inactive,2/2/2023,partial,credit card,86,5/19/2023,547
+455,active,10/7/2023,full,bank transfer,67,1/6/2023,309
+456,active,5/16/2023,none,PayPal,9,4/23/2023,125
+457,active,3/2/2023,partial,credit card,203,3/4/2023,943
+458,pending,6/1/2023,full,credit card,24,5/15/2023,26
+459,active,12/12/2022,partial,debit card,310,10/21/2023,415
+460,completed,12/25/2022,full,bank transfer,205,10/1/2023,954
+461,pending,9/12/2023,full,credit card,224,9/20/2023,512
+462,pending,3/6/2023,partial,debit card,261,12/4/2022,787
+463,inactive,4/19/2023,none,PayPal,73,8/27/2023,149
+464,completed,6/10/2023,partial,bank transfer,143,10/19/2023,971
+465,pending,6/11/2023,partial,PayPal,170,4/26/2023,470
+466,pending,11/28/2022,partial,credit card,110,11/25/2022,951
+467,pending,10/17/2023,none,bank transfer,291,5/14/2023,328
+468,pending,12/6/2022,none,PayPal,231,6/30/2023,160
+469,active,11/4/2023,partial,bank transfer,51,7/30/2023,5
+470,pending,11/27/2022,partial,bank transfer,213,4/3/2023,994
+471,pending,12/6/2022,full,credit card,216,9/25/2023,757
+472,active,5/24/2023,none,debit card,296,9/27/2023,560
+473,completed,7/8/2023,full,debit card,202,4/27/2023,1000
+474,pending,4/26/2023,partial,PayPal,131,3/16/2023,520
+475,inactive,9/8/2023,partial,bank transfer,169,11/2/2023,340
+476,active,7/16/2023,full,PayPal,8,12/25/2022,663
+477,completed,8/11/2023,none,debit card,324,8/18/2023,723
+478,completed,5/11/2023,full,debit card,177,8/11/2023,303
+479,completed,1/20/2023,none,credit card,349,12/29/2022,486
+480,pending,7/3/2023,partial,credit card,332,4/27/2023,918
+481,inactive,5/1/2023,full,PayPal,210,11/29/2022,297
+482,pending,6/26/2023,full,PayPal,65,11/13/2022,993
+483,completed,4/19/2023,full,credit card,339,4/26/2023,967
+484,active,1/10/2023,full,credit card,259,11/13/2022,773
+485,inactive,1/28/2023,none,PayPal,345,3/13/2023,588
+486,completed,6/10/2023,partial,debit card,122,12/29/2022,683
+487,active,12/21/2022,partial,debit card,342,12/5/2022,151
+488,pending,5/25/2023,full,debit card,246,10/28/2023,819
+489,inactive,5/24/2023,none,PayPal,194,7/11/2023,579
+490,active,8/9/2023,none,bank transfer,158,3/17/2023,747
+491,inactive,3/17/2023,full,PayPal,183,11/10/2023,929
+492,inactive,10/23/2023,none,PayPal,237,5/6/2023,945
+493,active,3/13/2023,none,bank transfer,78,4/1/2023,453
+494,completed,5/8/2023,none,bank transfer,159,1/5/2023,347
+495,completed,9/4/2023,partial,credit card,297,4/17/2023,706
+496,active,8/14/2023,partial,bank transfer,77,12/27/2022,116
+497,pending,2/21/2023,partial,PayPal,121,11/20/2022,750
+498,pending,6/17/2023,full,bank transfer,357,7/26/2023,491
+499,inactive,8/4/2023,partial,debit card,341,2/2/2023,922
+500,inactive,9/24/2023,partial,PayPal,103,6/10/2023,42
+501,pending,7/1/2023,full,bank transfer,292,5/23/2023,143
+502,pending,10/22/2023,none,PayPal,47,7/24/2023,695
+503,inactive,7/3/2023,partial,debit card,161,5/26/2023,565
+504,pending,12/27/2022,none,PayPal,24,11/13/2022,120
+505,active,11/7/2023,partial,PayPal,282,6/5/2023,316
+506,active,4/27/2023,none,bank transfer,358,3/2/2023,26
+507,active,5/5/2023,partial,bank transfer,243,2/12/2023,412
+508,inactive,12/14/2022,partial,credit card,92,11/24/2022,633
+509,active,2/7/2023,partial,bank transfer,168,3/16/2023,862
+510,pending,6/28/2023,none,debit card,296,9/13/2023,226
+511,inactive,9/17/2023,none,bank transfer,329,5/6/2023,457
+512,completed,5/17/2023,none,PayPal,207,10/11/2023,366
+513,inactive,2/3/2023,partial,credit card,269,8/20/2023,95
+514,completed,1/7/2023,none,debit card,108,3/14/2023,335
+515,inactive,6/17/2023,full,credit card,54,1/12/2023,57
+516,pending,2/5/2023,full,bank transfer,158,2/23/2023,623
+517,completed,1/3/2023,partial,PayPal,148,3/24/2023,657
+518,completed,12/30/2022,partial,credit card,112,7/12/2023,200
+519,pending,2/21/2023,partial,credit card,281,6/9/2023,598
+520,inactive,12/21/2022,partial,PayPal,78,9/6/2023,540
+521,completed,11/22/2022,partial,credit card,205,12/29/2022,228
+522,pending,3/31/2023,partial,bank transfer,189,8/19/2023,801
+523,active,7/14/2023,full,bank transfer,51,8/2/2023,959
+524,pending,11/4/2023,none,debit card,211,4/24/2023,786
+525,pending,9/13/2023,none,credit card,120,4/11/2023,285
+526,completed,9/30/2023,partial,credit card,323,9/29/2023,201
+527,completed,10/26/2023,full,PayPal,302,12/1/2022,24
+528,completed,1/21/2023,partial,debit card,120,8/29/2023,86
+529,pending,11/25/2022,partial,debit card,119,1/5/2023,552
+530,active,12/19/2022,full,PayPal,225,9/9/2023,870
+531,active,10/20/2023,full,PayPal,232,6/18/2023,457
+532,completed,9/5/2023,partial,bank transfer,217,2/27/2023,694
+533,active,5/3/2023,none,credit card,261,2/8/2023,688
+534,pending,8/26/2023,partial,debit card,131,11/19/2022,981
+535,pending,3/6/2023,partial,bank transfer,232,2/8/2023,90
+536,inactive,2/16/2023,full,debit card,260,3/11/2023,1000
+537,inactive,4/11/2023,partial,bank transfer,263,7/27/2023,525
+538,pending,8/10/2023,partial,debit card,294,7/18/2023,404
+539,completed,8/30/2023,full,debit card,323,9/5/2023,200
+540,completed,11/30/2022,full,bank transfer,284,6/14/2023,503
+541,active,7/29/2023,none,PayPal,99,5/9/2023,326
+542,active,2/19/2023,partial,credit card,350,3/16/2023,618
+543,active,11/3/2023,full,credit card,83,9/21/2023,620
+544,pending,12/19/2022,none,bank transfer,277,5/19/2023,524
+545,completed,9/6/2023,partial,credit card,273,4/22/2023,967
+546,inactive,7/10/2023,partial,PayPal,75,5/16/2023,58
+547,pending,2/28/2023,partial,credit card,8,5/28/2023,931
+548,inactive,8/30/2023,none,bank transfer,45,9/14/2023,683
+549,active,1/6/2023,partial,bank transfer,181,12/31/2022,370
+550,pending,5/26/2023,partial,credit card,279,9/11/2023,408
+551,active,9/12/2023,full,debit card,55,6/23/2023,152
+552,inactive,6/22/2023,none,credit card,205,4/13/2023,734
+553,active,4/21/2023,partial,credit card,325,5/30/2023,875
+554,inactive,4/21/2023,full,credit card,125,2/8/2023,438
+555,inactive,11/6/2023,full,PayPal,98,6/17/2023,379
+556,active,2/3/2023,partial,credit card,160,9/28/2023,396
+557,completed,8/7/2023,partial,bank transfer,61,7/12/2023,382
+558,active,12/11/2022,full,debit card,119,10/22/2023,13
+559,active,5/27/2023,partial,debit card,117,3/5/2023,292
+560,completed,9/21/2023,partial,bank transfer,202,2/12/2023,354
+561,pending,4/22/2023,none,credit card,323,6/29/2023,360
+562,pending,4/21/2023,none,debit card,142,2/1/2023,316
+563,inactive,8/13/2023,none,bank transfer,55,1/2/2023,457
+564,completed,6/19/2023,partial,bank transfer,230,7/2/2023,896
+565,active,5/3/2023,none,debit card,214,5/3/2023,575
+566,active,3/3/2023,none,debit card,156,2/26/2023,90
+567,pending,6/20/2023,partial,PayPal,134,7/26/2023,221
+568,completed,5/6/2023,partial,bank transfer,64,6/11/2023,746
+569,active,7/19/2023,partial,debit card,119,5/13/2023,910
+570,pending,1/2/2023,full,PayPal,250,2/24/2023,455
+571,inactive,8/3/2023,full,PayPal,257,3/8/2023,760
+572,completed,12/9/2022,full,credit card,216,11/16/2022,426
+573,active,10/24/2023,partial,PayPal,299,8/4/2023,823
+574,active,4/16/2023,partial,PayPal,160,8/27/2023,454
+575,active,6/15/2023,none,PayPal,133,1/6/2023,296
+576,pending,8/23/2023,none,PayPal,109,2/3/2023,168
+577,completed,1/27/2023,full,debit card,87,1/8/2023,826
+578,completed,4/10/2023,full,bank transfer,239,4/3/2023,746
+579,pending,10/13/2023,partial,bank transfer,176,2/12/2023,994
+580,inactive,2/8/2023,partial,PayPal,13,9/12/2023,920
+581,completed,4/29/2023,partial,debit card,96,8/14/2023,435
+582,completed,5/9/2023,none,credit card,220,2/2/2023,747
+583,active,5/21/2023,partial,bank transfer,172,2/27/2023,918
+584,pending,7/26/2023,none,bank transfer,267,10/2/2023,425
+585,completed,7/3/2023,partial,PayPal,276,12/13/2022,143
+586,inactive,12/10/2022,full,credit card,201,1/3/2023,856
+587,pending,12/4/2022,none,credit card,109,12/12/2022,602
+588,active,5/9/2023,partial,credit card,257,4/6/2023,613
+589,active,10/13/2023,partial,debit card,185,12/7/2022,89
+590,inactive,9/27/2023,full,PayPal,33,7/25/2023,148
+591,completed,2/7/2023,none,debit card,351,1/5/2023,213
+592,completed,2/23/2023,none,PayPal,19,4/8/2023,311
+593,pending,6/3/2023,partial,credit card,284,3/22/2023,487
+594,active,8/9/2023,partial,PayPal,111,4/1/2023,889
+595,active,6/11/2023,partial,credit card,197,7/18/2023,538
+596,pending,8/28/2023,partial,debit card,24,1/25/2023,344
+597,inactive,10/25/2023,none,debit card,244,6/28/2023,68
+598,inactive,8/30/2023,partial,debit card,312,2/7/2023,956
+599,active,7/17/2023,none,bank transfer,19,10/24/2023,984
+600,active,6/7/2023,partial,credit card,340,1/28/2023,605
+601,pending,5/30/2023,partial,credit card,117,9/13/2023,775
+602,completed,1/3/2023,none,bank transfer,63,5/7/2023,385
+603,pending,10/17/2023,partial,credit card,335,4/3/2023,91
+604,active,6/5/2023,none,credit card,134,11/14/2022,7
+605,pending,7/23/2023,none,debit card,147,12/19/2022,420
+606,active,9/27/2023,full,bank transfer,270,8/4/2023,655
+607,inactive,7/24/2023,full,PayPal,77,11/10/2023,937
+608,completed,8/24/2023,partial,bank transfer,249,3/18/2023,280
+609,completed,7/27/2023,partial,debit card,240,1/20/2023,425
+610,pending,11/9/2023,full,bank transfer,346,12/15/2022,180
+611,completed,4/5/2023,partial,debit card,127,1/11/2023,570
+612,inactive,6/7/2023,full,bank transfer,115,2/9/2023,474
+613,active,4/23/2023,full,debit card,134,7/18/2023,728
+614,completed,3/24/2023,full,PayPal,101,7/15/2023,582
+615,inactive,7/4/2023,full,PayPal,51,4/28/2023,774
+616,completed,8/17/2023,none,bank transfer,124,3/6/2023,937
+617,completed,9/27/2023,full,PayPal,268,11/28/2022,141
+618,active,5/29/2023,full,debit card,359,3/4/2023,205
+619,active,3/6/2023,none,PayPal,308,3/24/2023,191
+620,inactive,2/22/2023,full,bank transfer,276,3/25/2023,853
+621,pending,11/6/2023,partial,credit card,4,10/6/2023,391
+622,inactive,6/14/2023,full,bank transfer,268,1/29/2023,297
+623,completed,8/1/2023,partial,bank transfer,91,6/10/2023,568
+624,active,11/29/2022,partial,PayPal,129,11/11/2023,503
+625,pending,4/6/2023,full,bank transfer,10,11/27/2022,44
+626,pending,2/10/2023,partial,credit card,149,10/8/2023,843
+627,pending,11/7/2023,partial,PayPal,182,6/17/2023,847
+628,pending,2/26/2023,full,bank transfer,235,4/14/2023,310
+629,pending,7/6/2023,partial,credit card,139,10/17/2023,855
+630,inactive,10/27/2023,none,bank transfer,172,6/6/2023,600
+631,completed,6/1/2023,none,credit card,17,11/28/2022,312
+632,pending,6/24/2023,partial,bank transfer,43,9/8/2023,506
+633,inactive,8/20/2023,full,credit card,124,9/10/2023,573
+634,active,1/2/2023,partial,PayPal,185,9/15/2023,758
+635,completed,8/31/2023,full,PayPal,11,4/14/2023,475
+636,completed,4/8/2023,full,PayPal,239,9/15/2023,230
+637,completed,3/29/2023,full,bank transfer,121,6/14/2023,28
+638,completed,2/9/2023,partial,bank transfer,87,1/5/2023,811
+639,pending,12/25/2022,partial,debit card,86,9/6/2023,3
+640,pending,7/6/2023,full,bank transfer,275,8/5/2023,158
+641,active,1/15/2023,none,PayPal,149,3/4/2023,269
+642,active,9/19/2023,none,bank transfer,99,8/29/2023,308
+643,active,12/10/2022,none,PayPal,321,6/12/2023,979
+644,active,1/19/2023,full,bank transfer,160,4/24/2023,656
+645,completed,6/11/2023,full,debit card,297,6/14/2023,855
+646,completed,8/28/2023,none,debit card,250,6/18/2023,652
+647,active,7/21/2023,full,credit card,258,12/11/2022,484
+648,active,10/30/2023,partial,debit card,13,1/15/2023,128
+649,completed,6/17/2023,none,credit card,302,6/17/2023,670
+650,inactive,5/9/2023,partial,credit card,224,10/27/2023,682
+651,pending,7/11/2023,none,credit card,349,6/29/2023,915
+652,active,10/9/2023,partial,PayPal,39,1/31/2023,295
+653,completed,12/8/2022,none,credit card,20,11/17/2022,428
+654,pending,6/13/2023,none,bank transfer,82,10/28/2023,184
+655,active,9/18/2023,none,PayPal,115,6/7/2023,504
+656,active,9/28/2023,partial,PayPal,347,2/18/2023,929
+657,active,4/22/2023,none,debit card,202,11/24/2022,705
+658,completed,8/30/2023,none,PayPal,178,2/26/2023,661
+659,active,1/30/2023,partial,PayPal,25,6/8/2023,251
+660,pending,1/25/2023,full,bank transfer,140,8/21/2023,30
+661,completed,3/18/2023,full,bank transfer,168,10/29/2023,123
+662,completed,12/20/2022,none,debit card,30,9/14/2023,784
+663,completed,5/27/2023,none,bank transfer,268,2/18/2023,284
+664,pending,11/12/2022,none,PayPal,133,3/16/2023,505
+665,pending,8/19/2023,full,bank transfer,188,2/15/2023,994
+666,completed,11/21/2022,partial,PayPal,344,12/30/2022,69
+667,inactive,12/3/2022,partial,bank transfer,323,3/17/2023,614
+668,pending,4/3/2023,partial,PayPal,323,11/5/2023,764
+669,active,7/16/2023,none,PayPal,30,5/10/2023,371
+670,completed,1/20/2023,partial,bank transfer,27,6/8/2023,596
+671,completed,9/19/2023,partial,debit card,80,5/1/2023,493
+672,pending,1/14/2023,none,credit card,257,12/21/2022,580
+673,completed,3/17/2023,none,PayPal,99,3/26/2023,447
+674,active,3/23/2023,none,PayPal,259,5/17/2023,890
+675,completed,4/13/2023,none,credit card,318,11/18/2022,265
+676,inactive,3/27/2023,none,debit card,358,9/10/2023,644
+677,completed,6/17/2023,none,PayPal,8,9/16/2023,703
+678,completed,5/20/2023,partial,credit card,111,8/30/2023,488
+679,pending,2/23/2023,partial,debit card,42,3/1/2023,998
+680,pending,12/6/2022,none,PayPal,158,5/18/2023,711
+681,pending,10/30/2023,none,debit card,161,7/29/2023,838
+682,active,3/13/2023,full,bank transfer,172,10/3/2023,123
+683,pending,8/9/2023,partial,credit card,291,10/14/2023,383
+684,active,6/1/2023,partial,PayPal,179,9/16/2023,525
+685,active,3/28/2023,full,bank transfer,226,1/3/2023,751
+686,completed,9/23/2023,partial,debit card,8,3/10/2023,590
+687,pending,3/8/2023,none,PayPal,113,11/22/2022,18
+688,completed,1/3/2023,full,debit card,57,1/27/2023,866
+689,active,10/26/2023,full,credit card,214,5/4/2023,266
+690,inactive,6/2/2023,partial,PayPal,202,8/31/2023,167
+691,inactive,5/15/2023,partial,PayPal,227,3/26/2023,596
+692,pending,1/21/2023,none,debit card,82,10/24/2023,60
+693,completed,6/3/2023,none,credit card,56,11/30/2022,150
+694,pending,6/21/2023,none,credit card,235,12/6/2022,328
+695,completed,4/9/2023,partial,debit card,79,9/30/2023,473
+696,completed,10/19/2023,none,PayPal,103,2/19/2023,900
+697,completed,12/20/2022,none,credit card,132,2/5/2023,710
+698,active,10/3/2023,full,debit card,300,11/9/2023,139
+699,active,3/4/2023,full,bank transfer,205,6/13/2023,366
+700,completed,6/11/2023,partial,debit card,324,2/11/2023,168
+701,inactive,9/12/2023,full,bank transfer,129,4/3/2023,55
+702,inactive,4/23/2023,full,credit card,210,6/27/2023,280
+703,pending,8/10/2023,partial,bank transfer,226,6/28/2023,370
+704,completed,4/27/2023,full,debit card,20,3/11/2023,430
+705,inactive,10/19/2023,full,debit card,238,5/24/2023,652
+706,pending,11/14/2022,none,credit card,311,4/21/2023,934
+707,completed,11/16/2022,partial,debit card,127,6/30/2023,979
+708,completed,1/10/2023,none,credit card,56,6/18/2023,365
+709,completed,10/26/2023,partial,credit card,31,7/27/2023,50
+710,completed,11/8/2023,partial,PayPal,105,5/26/2023,297
+711,pending,8/21/2023,partial,credit card,91,5/14/2023,299
+712,pending,2/18/2023,none,PayPal,59,9/26/2023,543
+713,pending,10/9/2023,none,bank transfer,40,3/6/2023,655
+714,completed,3/15/2023,none,bank transfer,144,12/20/2022,959
+715,inactive,4/6/2023,partial,PayPal,210,10/11/2023,79
+716,active,11/9/2023,partial,bank transfer,153,1/18/2023,527
+717,pending,6/27/2023,partial,debit card,63,6/16/2023,199
+718,pending,1/3/2023,full,credit card,218,3/26/2023,785
+719,completed,4/6/2023,none,credit card,177,6/27/2023,644
+720,completed,1/25/2023,none,debit card,108,2/7/2023,188
+721,completed,3/5/2023,partial,debit card,152,3/1/2023,784
+722,completed,4/7/2023,none,debit card,157,9/13/2023,97
+723,inactive,8/3/2023,full,credit card,283,10/2/2023,614
+724,active,9/5/2023,none,credit card,13,10/10/2023,771
+725,active,5/14/2023,partial,credit card,178,9/9/2023,172
+726,inactive,7/21/2023,partial,PayPal,245,2/28/2023,557
+727,active,2/7/2023,none,PayPal,247,5/6/2023,331
+728,pending,1/18/2023,none,PayPal,279,1/25/2023,894
+729,pending,10/27/2023,none,bank transfer,255,5/22/2023,324
+730,inactive,2/16/2023,full,credit card,31,5/3/2023,847
+731,pending,12/19/2022,full,debit card,61,9/29/2023,866
+732,completed,11/26/2022,full,bank transfer,102,9/23/2023,702
+733,pending,5/19/2023,none,bank transfer,151,5/8/2023,820
+734,inactive,5/22/2023,partial,credit card,96,11/12/2022,309
+735,inactive,6/10/2023,none,credit card,54,10/8/2023,278
+736,inactive,8/9/2023,none,bank transfer,79,10/5/2023,702
+737,active,12/31/2022,partial,bank transfer,252,2/13/2023,715
+738,pending,1/3/2023,partial,debit card,196,8/19/2023,705
+739,active,9/1/2023,full,credit card,239,6/15/2023,372
+740,active,12/30/2022,full,debit card,225,11/29/2022,99
+741,pending,10/4/2023,none,credit card,91,1/14/2023,548
+742,active,11/22/2022,none,credit card,263,5/30/2023,594
+743,active,3/4/2023,none,bank transfer,128,12/23/2022,361
+744,active,3/30/2023,none,PayPal,214,5/24/2023,844
+745,active,2/25/2023,partial,bank transfer,203,8/24/2023,148
+746,active,4/24/2023,partial,PayPal,36,1/18/2023,14
+747,active,2/13/2023,partial,PayPal,213,11/14/2022,141
+748,inactive,7/17/2023,full,credit card,321,3/11/2023,531
+749,inactive,3/14/2023,none,credit card,89,11/12/2022,289
+750,completed,10/28/2023,full,credit card,109,12/4/2022,382
+751,completed,1/26/2023,none,PayPal,173,3/5/2023,798
+752,completed,10/11/2023,full,PayPal,210,10/24/2023,497
+753,inactive,7/9/2023,partial,debit card,93,3/23/2023,422
+754,completed,10/10/2023,none,PayPal,77,5/31/2023,349
+755,active,2/2/2023,partial,credit card,177,5/30/2023,944
+756,inactive,8/30/2023,full,debit card,202,8/31/2023,933
+757,completed,12/22/2022,full,debit card,346,8/16/2023,167
+758,inactive,2/16/2023,full,credit card,277,4/18/2023,105
+759,inactive,2/18/2023,full,bank transfer,269,11/22/2022,224
+760,pending,11/8/2023,partial,credit card,144,8/23/2023,159
+761,pending,2/15/2023,partial,bank transfer,112,1/5/2023,516
+762,pending,7/21/2023,full,bank transfer,186,5/6/2023,227
+763,pending,5/18/2023,partial,PayPal,20,3/24/2023,852
+764,inactive,10/18/2023,none,debit card,76,11/28/2022,193
+765,pending,7/5/2023,full,debit card,304,9/25/2023,815
+766,completed,3/11/2023,none,bank transfer,347,11/7/2023,919
+767,completed,11/3/2023,partial,credit card,192,4/8/2023,573
+768,completed,1/6/2023,full,bank transfer,309,5/31/2023,629
+769,completed,6/30/2023,partial,bank transfer,262,11/19/2022,707
+770,active,7/15/2023,none,credit card,22,10/16/2023,852
+771,active,4/5/2023,full,debit card,310,6/3/2023,976
+772,completed,5/3/2023,partial,debit card,235,2/14/2023,539
+773,inactive,6/29/2023,partial,debit card,162,11/30/2022,867
+774,inactive,8/9/2023,none,debit card,73,7/2/2023,545
+775,inactive,10/16/2023,full,credit card,29,12/1/2022,730
+776,active,12/10/2022,none,debit card,123,3/22/2023,565
+777,completed,10/15/2023,full,bank transfer,306,4/17/2023,720
+778,pending,11/24/2022,none,credit card,147,1/13/2023,775
+779,pending,5/22/2023,full,debit card,207,12/14/2022,822
+780,inactive,5/22/2023,full,bank transfer,36,12/21/2022,117
+781,completed,12/8/2022,full,bank transfer,147,5/17/2023,428
+782,pending,1/16/2023,none,debit card,2,4/16/2023,472
+783,inactive,5/12/2023,none,bank transfer,177,1/5/2023,939
+784,completed,2/10/2023,none,debit card,305,1/8/2023,79
+785,inactive,12/25/2022,partial,bank transfer,110,4/2/2023,120
+786,inactive,8/2/2023,partial,credit card,269,4/5/2023,839
+787,completed,5/24/2023,partial,PayPal,102,8/16/2023,135
+788,completed,9/29/2023,partial,PayPal,320,7/18/2023,946
+789,pending,5/9/2023,full,PayPal,358,7/9/2023,18
+790,active,12/26/2022,none,bank transfer,237,10/6/2023,492
+791,inactive,2/18/2023,partial,credit card,68,3/9/2023,357
+792,completed,8/27/2023,partial,credit card,226,12/13/2022,320
+793,active,10/19/2023,none,credit card,251,9/25/2023,708
+794,pending,9/8/2023,full,debit card,263,1/24/2023,372
+795,inactive,4/18/2023,none,bank transfer,152,9/21/2023,143
+796,active,1/29/2023,none,credit card,5,11/13/2022,837
+797,inactive,4/24/2023,full,credit card,66,11/3/2023,453
+798,completed,4/25/2023,partial,debit card,52,5/5/2023,912
+799,inactive,12/9/2022,none,bank transfer,128,5/27/2023,612
+800,pending,1/29/2023,partial,PayPal,112,7/23/2023,536
+801,pending,8/21/2023,partial,bank transfer,356,9/23/2023,782
+802,completed,2/2/2023,full,credit card,212,5/19/2023,994
+803,active,6/24/2023,partial,PayPal,23,11/11/2023,351
+804,active,1/24/2023,full,bank transfer,148,1/1/2023,177
+805,pending,1/27/2023,partial,credit card,155,12/25/2022,727
+806,inactive,2/19/2023,partial,bank transfer,228,9/26/2023,312
+807,active,7/4/2023,none,bank transfer,212,8/29/2023,30
+808,inactive,8/12/2023,full,credit card,336,4/26/2023,763
+809,completed,6/8/2023,partial,credit card,184,8/29/2023,835
+810,completed,4/3/2023,none,credit card,216,9/13/2023,122
+811,active,2/25/2023,full,PayPal,174,3/27/2023,228
+812,pending,8/27/2023,none,PayPal,138,12/1/2022,132
+813,inactive,2/18/2023,partial,PayPal,253,12/5/2022,878
+814,pending,5/28/2023,none,PayPal,285,9/3/2023,711
+815,active,7/16/2023,partial,bank transfer,70,9/24/2023,146
+816,pending,2/7/2023,full,bank transfer,222,9/28/2023,705
+817,completed,2/3/2023,full,debit card,64,2/18/2023,233
+818,pending,8/14/2023,partial,credit card,141,2/13/2023,315
+819,pending,3/21/2023,full,PayPal,28,8/18/2023,129
+820,pending,2/4/2023,full,PayPal,163,9/6/2023,215
+821,inactive,1/17/2023,partial,debit card,192,7/3/2023,134
+822,completed,7/9/2023,none,debit card,317,5/13/2023,81
+823,pending,12/21/2022,partial,debit card,345,9/24/2023,436
+824,inactive,7/4/2023,full,debit card,345,12/30/2022,708
+825,completed,8/9/2023,full,debit card,38,4/23/2023,782
+826,active,3/11/2023,none,debit card,96,7/28/2023,803
+827,completed,11/12/2022,full,bank transfer,54,2/4/2023,115
+828,completed,11/17/2022,full,debit card,20,6/29/2023,80
+829,pending,1/24/2023,partial,credit card,102,8/15/2023,20
+830,completed,1/15/2023,partial,PayPal,61,5/20/2023,794
+831,active,6/27/2023,full,bank transfer,185,7/4/2023,496
+832,pending,12/13/2022,partial,debit card,29,9/7/2023,776
+833,active,4/9/2023,partial,credit card,59,5/2/2023,442
+834,active,10/15/2023,full,bank transfer,26,2/22/2023,44
+835,active,3/25/2023,none,bank transfer,300,7/24/2023,202
+836,pending,2/21/2023,full,debit card,10,3/4/2023,111
+837,pending,6/30/2023,partial,bank transfer,228,7/10/2023,34
+838,inactive,5/8/2023,none,PayPal,49,8/1/2023,813
+839,active,11/23/2022,none,debit card,40,12/16/2022,676
+840,active,5/18/2023,full,debit card,145,5/6/2023,526
+841,active,11/15/2022,full,debit card,296,1/9/2023,608
+842,pending,9/28/2023,none,credit card,262,11/12/2022,61
+843,inactive,5/13/2023,partial,bank transfer,38,3/14/2023,481
+844,pending,4/7/2023,none,bank transfer,302,12/15/2022,122
+845,pending,11/18/2022,full,debit card,347,7/22/2023,931
+846,completed,9/22/2023,none,bank transfer,152,9/12/2023,260
+847,completed,8/19/2023,none,PayPal,15,8/24/2023,45
+848,pending,6/25/2023,partial,bank transfer,115,7/26/2023,68
+849,active,10/15/2023,none,credit card,139,3/21/2023,309
+850,completed,6/9/2023,full,credit card,305,4/24/2023,684
+851,inactive,1/8/2023,partial,credit card,137,10/12/2023,11
+852,pending,11/15/2022,none,debit card,279,4/5/2023,773
+853,inactive,9/25/2023,full,debit card,197,1/12/2023,99
+854,pending,5/23/2023,partial,credit card,158,1/27/2023,802
+855,pending,10/14/2023,none,credit card,177,11/2/2023,127
+856,completed,3/16/2023,partial,debit card,65,11/7/2023,943
+857,active,2/20/2023,full,credit card,197,2/24/2023,617
+858,completed,7/27/2023,partial,credit card,45,6/23/2023,211
+859,active,4/27/2023,full,PayPal,115,9/2/2023,602
+860,completed,2/19/2023,full,credit card,271,6/5/2023,923
+861,pending,7/7/2023,full,credit card,201,7/10/2023,205
+862,pending,11/24/2022,none,credit card,310,5/20/2023,190
+863,active,3/17/2023,none,credit card,7,3/13/2023,687
+864,completed,5/5/2023,full,PayPal,293,10/19/2023,360
+865,active,2/1/2023,partial,debit card,70,12/29/2022,30
+866,active,8/2/2023,partial,bank transfer,95,5/8/2023,93
+867,active,8/6/2023,partial,credit card,324,8/2/2023,150
+868,inactive,1/21/2023,partial,bank transfer,176,12/18/2022,867
+869,active,5/11/2023,full,PayPal,288,9/22/2023,765
+870,pending,10/13/2023,partial,bank transfer,269,4/26/2023,965
+871,active,12/7/2022,none,PayPal,330,3/13/2023,285
+872,completed,3/8/2023,none,bank transfer,222,7/26/2023,972
+873,inactive,5/19/2023,full,credit card,28,10/5/2023,594
+874,pending,6/12/2023,none,credit card,290,11/17/2022,357
+875,inactive,3/7/2023,full,credit card,70,10/31/2023,361
+876,active,8/1/2023,partial,PayPal,16,9/4/2023,165
+877,active,10/17/2023,full,debit card,272,4/4/2023,876
+878,completed,12/1/2022,partial,bank transfer,264,1/8/2023,513
+879,inactive,2/4/2023,full,PayPal,301,6/6/2023,800
+880,inactive,7/2/2023,none,PayPal,328,7/5/2023,747
+881,inactive,3/19/2023,full,debit card,2,5/26/2023,628
+882,pending,2/19/2023,none,debit card,286,3/18/2023,248
+883,inactive,11/12/2022,partial,bank transfer,344,11/27/2022,518
+884,pending,7/15/2023,none,debit card,348,3/23/2023,584
+885,active,10/31/2023,none,credit card,78,12/20/2022,70
+886,active,4/16/2023,full,credit card,70,1/19/2023,102
+887,active,2/5/2023,none,debit card,110,3/17/2023,840
+888,pending,8/21/2023,none,credit card,340,2/5/2023,593
+889,active,9/1/2023,none,credit card,10,10/5/2023,782
+890,completed,7/18/2023,partial,debit card,253,10/27/2023,15
+891,inactive,1/12/2023,partial,PayPal,194,11/7/2023,542
+892,completed,11/21/2022,partial,PayPal,197,6/20/2023,223
+893,completed,10/12/2023,full,bank transfer,281,12/16/2022,733
+894,completed,1/8/2023,partial,debit card,262,12/13/2022,197
+895,inactive,2/24/2023,full,debit card,301,12/16/2022,988
+896,active,2/27/2023,none,credit card,148,6/7/2023,289
+897,inactive,5/7/2023,partial,debit card,4,2/21/2023,176
+898,inactive,8/17/2023,full,debit card,65,7/23/2023,924
+899,pending,5/7/2023,partial,debit card,145,7/7/2023,773
+900,completed,4/10/2023,none,debit card,284,3/13/2023,551
+901,inactive,3/24/2023,full,credit card,288,8/28/2023,5
+902,active,2/14/2023,none,debit card,277,2/12/2023,997
+903,pending,10/9/2023,none,bank transfer,49,12/10/2022,743
+904,inactive,8/9/2023,none,debit card,221,6/15/2023,102
+905,pending,1/9/2023,partial,bank transfer,219,5/13/2023,947
+906,completed,8/15/2023,none,bank transfer,15,7/29/2023,220
+907,active,10/12/2023,full,PayPal,25,5/24/2023,943
+908,inactive,7/12/2023,none,debit card,336,4/9/2023,517
+909,completed,6/19/2023,partial,debit card,63,4/16/2023,872
+910,active,11/1/2023,none,PayPal,267,9/29/2023,725
+911,completed,4/16/2023,full,debit card,114,2/15/2023,487
+912,inactive,3/21/2023,none,bank transfer,312,8/20/2023,376
+913,active,3/30/2023,partial,credit card,364,2/14/2023,715
+914,completed,11/2/2023,none,debit card,81,9/9/2023,604
+915,inactive,9/16/2023,partial,credit card,228,5/24/2023,190
+916,inactive,8/14/2023,full,bank transfer,31,9/14/2023,451
+917,pending,2/1/2023,partial,bank transfer,72,4/17/2023,690
+918,active,10/28/2023,none,PayPal,242,12/12/2022,981
+919,pending,6/24/2023,partial,PayPal,206,11/12/2022,110
+920,pending,3/10/2023,partial,PayPal,147,12/26/2022,186
+921,completed,8/22/2023,none,debit card,343,12/6/2022,855
+922,active,5/14/2023,full,debit card,311,4/15/2023,364
+923,pending,10/6/2023,full,bank transfer,55,4/22/2023,389
+924,active,6/7/2023,none,debit card,195,8/30/2023,435
+925,completed,1/28/2023,partial,debit card,343,8/8/2023,220
+926,completed,5/18/2023,full,bank transfer,255,6/7/2023,527
+927,pending,1/15/2023,full,debit card,9,5/24/2023,234
+928,pending,3/7/2023,full,PayPal,145,3/28/2023,418
+929,active,2/18/2023,partial,debit card,297,8/19/2023,116
+930,inactive,2/6/2023,partial,PayPal,42,7/16/2023,780
+931,pending,11/17/2022,none,credit card,239,11/20/2022,322
+932,active,5/18/2023,full,PayPal,256,11/22/2022,127
+933,pending,1/21/2023,full,PayPal,20,6/22/2023,478
+934,active,10/30/2023,partial,debit card,130,4/3/2023,113
+935,active,12/19/2022,full,credit card,152,11/15/2022,533
+936,active,2/9/2023,partial,credit card,115,3/5/2023,140
+937,inactive,7/4/2023,none,credit card,18,1/29/2023,508
+938,pending,7/22/2023,partial,bank transfer,362,7/1/2023,781
+939,inactive,1/20/2023,full,credit card,35,1/28/2023,370
+940,pending,11/6/2023,full,bank transfer,349,1/25/2023,722
+941,pending,1/21/2023,none,bank transfer,40,11/2/2023,296
+942,active,10/28/2023,full,bank transfer,48,1/27/2023,571
+943,active,3/4/2023,none,PayPal,280,5/26/2023,740
+944,completed,5/23/2023,full,bank transfer,304,10/16/2023,42
+945,pending,12/14/2022,partial,bank transfer,228,1/24/2023,85
+946,inactive,3/18/2023,partial,bank transfer,142,3/15/2023,336
+947,active,4/30/2023,full,PayPal,106,11/16/2022,506
+948,inactive,3/7/2023,none,bank transfer,174,6/17/2023,119
+949,inactive,3/8/2023,partial,credit card,243,1/24/2023,395
+950,pending,9/22/2023,partial,debit card,104,2/19/2023,291
+951,inactive,4/20/2023,none,PayPal,315,1/19/2023,468
+952,pending,12/5/2022,none,PayPal,360,5/1/2023,615
+953,completed,12/31/2022,full,PayPal,209,10/1/2023,754
+954,inactive,9/20/2023,full,PayPal,363,8/24/2023,320
+955,completed,7/18/2023,none,bank transfer,248,9/11/2023,704
+956,completed,2/13/2023,full,PayPal,50,3/31/2023,1000
+957,active,8/16/2023,none,credit card,43,1/5/2023,862
+958,active,1/7/2023,full,credit card,131,4/1/2023,455
+959,pending,10/1/2023,none,bank transfer,30,10/8/2023,232
+960,completed,3/19/2023,partial,bank transfer,207,6/25/2023,568
+961,inactive,8/12/2023,partial,bank transfer,83,5/21/2023,418
+962,inactive,6/6/2023,none,bank transfer,249,10/26/2023,298
+963,inactive,3/29/2023,none,bank transfer,31,12/27/2022,876
+964,pending,7/22/2023,none,PayPal,21,12/9/2022,439
+965,completed,12/6/2022,full,debit card,157,6/8/2023,194
+966,active,1/12/2023,full,debit card,188,1/7/2023,878
+967,pending,7/20/2023,full,credit card,100,10/6/2023,72
+968,active,11/15/2022,full,PayPal,310,12/29/2022,917
+969,completed,10/16/2023,full,credit card,165,9/12/2023,862
+970,inactive,12/15/2022,partial,debit card,257,10/14/2023,822
+971,completed,11/5/2023,partial,bank transfer,152,1/28/2023,488
+972,completed,4/6/2023,none,debit card,216,5/2/2023,962
+973,pending,2/7/2023,full,bank transfer,298,6/2/2023,696
+974,active,1/21/2023,none,PayPal,59,6/11/2023,377
+975,pending,6/11/2023,full,PayPal,19,4/12/2023,184
+976,inactive,6/14/2023,none,credit card,153,1/16/2023,14
+977,inactive,1/27/2023,none,bank transfer,200,7/21/2023,691
+978,active,6/5/2023,partial,credit card,154,6/8/2023,504
+979,active,4/6/2023,none,debit card,96,8/16/2023,689
+980,pending,4/3/2023,none,PayPal,184,9/15/2023,108
+981,inactive,8/19/2023,partial,debit card,179,1/12/2023,406
+982,inactive,8/11/2023,partial,credit card,65,6/11/2023,449
+983,completed,2/25/2023,partial,credit card,341,11/27/2022,536
+984,pending,4/14/2023,full,credit card,212,11/27/2022,675
+985,pending,7/25/2023,full,PayPal,322,4/2/2023,693
+986,pending,7/29/2023,none,PayPal,307,4/27/2023,88
+987,completed,8/16/2023,full,credit card,54,12/24/2022,123
+988,active,6/11/2023,full,PayPal,113,11/22/2022,147
+989,active,4/18/2023,full,debit card,136,10/1/2023,405
+990,pending,1/30/2023,full,bank transfer,126,6/5/2023,411
+991,completed,6/21/2023,none,debit card,162,9/6/2023,712
+992,active,4/20/2023,none,PayPal,144,1/29/2023,605
+993,active,4/27/2023,none,bank transfer,64,9/10/2023,105
+994,pending,10/31/2023,partial,credit card,149,4/21/2023,760
+995,pending,1/20/2023,full,debit card,183,9/28/2023,948
+996,active,1/11/2023,partial,credit card,158,12/10/2022,914
+997,active,7/16/2023,partial,bank transfer,183,5/3/2023,173
+998,inactive,9/19/2023,none,debit card,300,9/10/2023,67
+999,inactive,1/11/2023,partial,debit card,121,8/18/2023,373
+1000,inactive,2/13/2023,partial,bank transfer,239,5/12/2023,999

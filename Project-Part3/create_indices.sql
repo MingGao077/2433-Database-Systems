@@ -1,0 +1,1 @@
+CREATE INDEX idx_Account_CompanyCode ON Account (CompanyCode);
