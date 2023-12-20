@@ -51,7 +51,7 @@
       }
 
       .parameters-container {
-          width: 30%; /* Set a specific width for the parameters container */
+          width: 60%; /* Set a specific width for the parameters container */
           margin: auto; /* Center the parameters horizontally */
       }
 
@@ -59,6 +59,13 @@
           width: 100%; /* Set the width of input elements to 100% of the parent container */
           box-sizing: border-box;
           margin-bottom: 5px;
+      }
+
+      textarea {
+          width: 100%; /* Set the width of textarea to 100% of the parent container */
+          box-sizing: border-box;
+          margin-bottom: 5px;
+          resize: vertical; /* Allow vertical resizing of the textarea */
       }
 
       button {
@@ -78,7 +85,7 @@
       <br>
       <input type="text" id="voice_input" placeholder="Enter Voice Input">
       <br>
-      <input type="text" id="command" placeholder="Enter Command: Add or Predict">
+      <textarea rows="4" id="command" placeholder="Enter Command: Add or Predict"></textarea>
       <br>
       <!-- Add a button to trigger the request -->
       <button onclick="retrievePerformance()">Retrieve</button>
