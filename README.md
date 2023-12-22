@@ -1,13 +1,15 @@
 # 2433-Database-Systems
 This is a repository for the course Database Systems (CSCI-GA 2433) at the NYU.
 
+Team Members: Ming Gao, Wes Wang, Zejun Zhang
+
 ## Project Demo Video: 
 https://drive.google.com/drive/folders/1xjBEifMORZ6zA4jdlV1jv2ReRhV-jtMt?usp=drive_link
 
 ## Project Part 1 to Part 3
 These file folders contain the materials we submitted to Brightspace according to the requirements of each project.
 
-Since Zejun Zhang did the first three parts of this project solo, so his previous work is stored in a branch (zejzhang) of this git repository. 
+Since Zejun Zhang did the first three parts of this project solo, so his previous work is stored in a branch (`zejzhang`) of this git repository. 
 
 ## Project Part 4
 We finalized the data-driven end-to-end web application in the part of project.
