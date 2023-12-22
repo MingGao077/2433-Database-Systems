@@ -35,4 +35,4 @@ Here are some toy examples you can try:
 -  `voice_input`: id is 351764, Gender is Male, Age is 71, Driving_License is 1, Region_Code is 46, Previously_Insured is 1, Vehicle_Age is one to two years, Vehicle_Damage is No, Annual_Premium is 2630, Policy_Sales_Channel is 30, Vintage is 32
 - `command`: Predict
 
-Notes: If you want to implement data addition, the voice_input here must include 'Response' as the input data would be converted to the format compatible with the training set of machine learning.
+Notes: If you want to implement data addition, the voice_input here must include "Response" as the input data would be converted to the format compatible with the training set of machine learning.
