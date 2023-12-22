@@ -23,13 +23,13 @@ public class EmployeeController {
     private EmployeeService employeeService;
 
     /**
-     * employee login
+     * Add Employee Registration
      * @param request
      * @param employee
      * @return
      */
-    @PostMapping("/login")
-    public R<Employee> login(HttpServletRequest request,@RequestBody Employee employee){
+    @PostMapping("/Register")
+    public R<Employee> register(HttpServletRequest request,@RequestBody Employee employee){
 
         //1. Encrypt the password submitted from the webpage with md5
         String password = employee.getPassword();
@@ -40,14 +40,14 @@ public class EmployeeController {
         queryWrapper.eq(Employee::getUsername,employee.getUsername());
         Employee emp = employeeService.getOne(queryWrapper);
 
-        //3. If username not found, return login fail
+        //3. If username not found, return Register fail
         if(emp == null){
-            return R.error("Login Failed");
+            return R.error("Register Failed");
         }
 
-        //4. Compare password, if not equal, return login fail
+        //4. Compare password, if not equal, return Register fail
         if(!emp.getPassword().equals(password)){
-            return R.error("Login Failed");
+            return R.error("Register Failed");
         }
 
         //5. Check employee status, if disabled, return disabled
@@ -55,13 +55,13 @@ public class EmployeeController {
             return R.error("Account Disabled");
         }
 
-        //6. Login success, save the employee's ID to Session, and return login success
+        //6. register success, save the employee's ID to Session, and return register success
         request.getSession().setAttribute("employee",emp.getId());
         return R.success(emp);
     }
 
     /**
-     * employee logout
+     * employee Deletion
      * @param request
      * @return
      *
@@ -69,7 +69,7 @@ public class EmployeeController {
      * when logged in, there will be a record in the session/local storage if press F12 on the webpage
      * when logged out, that record will be removed (might need to hit refresh)
      */
-    @PostMapping("/logout")
+    @PostMapping("/deletion")
     public R<String> logout(HttpServletRequest request){
         //clear the
         request.getSession().removeAttribute("employee");
