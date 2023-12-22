@@ -17,6 +17,7 @@ We finalized the data-driven end-to-end web application in the part of project.
 - Backend-test.ipynb: This notebook is a test file for the backend development.
 - Data_Processing.ipynb: This notebook is used for processing the original input data to generate the training data and the test data for machine learning.
 - database.sql: This is the MySQL database we set locally, it stores all the training data and test data for machine learning. This file is too large to be stored on Github repository, so we store it on google drive: https://drive.google.com/drive/folders/1xjBEifMORZ6zA4jdlV1jv2ReRhV-jtMt?usp=drive_link
+- EmployeeController.java: This is an extension of our project, where we use Java Spring Boot and MyBatis Plus ORM to query the database for employee information. We demonstrate our understanding of ORM in this extension and it provides a direction for future further improvement.
 
 ## How to Use Our Web Application
 If you want to test the web application, you should first download the database.sql and deploy locally. Then, you should run the Backend.ipynb locally, and do not forget to modify the database's path. Finally, you can open the web page and try our web application.
